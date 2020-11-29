@@ -4,42 +4,42 @@
   
   <url>
     <loc>https://example.com/categories/about/</loc>
-    <lastmod>2020-07-17T20:58:59+08:00</lastmod>
+    <lastmod>2020-07-17T20:59:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/about/</loc>
-    <lastmod>2020-07-17T20:58:59+08:00</lastmod>
+    <lastmod>2020-07-17T20:59:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/about/</loc>
-    <lastmod>2020-07-17T20:58:59+08:00</lastmod>
+    <lastmod>2020-07-17T20:59:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2020-07-17T20:58:59+08:00</lastmod>
+    <lastmod>2020-07-17T20:59:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2020-07-17T20:58:59+08:00</lastmod>
+    <lastmod>2020-07-17T20:59:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2020-07-17T20:58:59+08:00</lastmod>
+    <lastmod>2020-07-17T20:59:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/hello/</loc>
-    <lastmod>2020-07-17T20:51:10+08:00</lastmod>
+    <loc>https://example.com/research/hello/</loc>
+    <lastmod>2020-07-17T20:51:12+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2020-07-17T20:51:10+08:00</lastmod>
+    <loc>https://example.com/research/</loc>
+    <lastmod>2020-07-17T20:51:12+08:00</lastmod>
   </url>
   
 </urlset>

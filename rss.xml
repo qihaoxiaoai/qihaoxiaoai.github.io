@@ -10,7 +10,7 @@
         <title>Chemlibertas|Xiaohe&#39;s Notes</title>
         <link>https://example.com/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
-        <generator>Hugo 0.74.1 https://gohugo.io/</generator>
+        <generator>Hugo 0.79.0 https://gohugo.io/</generator>
         
             <language>en</language>
         
@@ -23,35 +23,10 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 24 Aug 2020 21:48:01 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 29 Nov 2020 12:39:34 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
-        
-            <item>
-                <title>Hello</title>
-                <link>https://example.com/posts/hello/</link>
-                <guid isPermaLink="true">https://example.com/posts/hello/</guid>
-                <pubDate>Fri, 17 Jul 2020 20:50:08 &#43;0800</pubDate>
-                
-                    <author>qihaoxiaoai@gmail.com (racy)</author>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
-                
-                    <description>&lt;p&gt;Hello,world!&lt;/p&gt;
-</description>
-                
-                
-                
-                
-                
-                    
-                        
-                    
-                        
-                    
-                
-            </item>
         
     </channel>
 </rss>
